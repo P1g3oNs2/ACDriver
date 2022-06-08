@@ -9,4 +9,3 @@ NativeLibrary
 JvJoyInterface-0.1.0.jar
 *.dll
 src/main/java/redlaboratory
-src/main/java/telemetryservice
