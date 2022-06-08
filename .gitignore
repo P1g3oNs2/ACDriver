@@ -1,11 +1,4 @@
 .idea
 .gradle
 *.iml
-32
-64
 build
-lib
-NativeLibrary
-JvJoyInterface-0.1.0.jar
-*.dll
-src/main/java/redlaboratory
